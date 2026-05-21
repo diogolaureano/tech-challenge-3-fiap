@@ -6,3 +6,5 @@ coverage/
 frontend/dist/
 frontend/node_modules/
 *.local
+
+docker-images/
